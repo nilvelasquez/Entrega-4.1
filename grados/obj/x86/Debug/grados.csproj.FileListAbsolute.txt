@@ -1,0 +1,8 @@
+D:\UPC\SO\Ejercicio 3.3\Grados\grados\grados\bin\Debug\grados.exe
+D:\UPC\SO\Ejercicio 3.3\Grados\grados\grados\bin\Debug\grados.pdb
+D:\UPC\SO\Ejercicio 3.3\Grados\grados\grados\obj\x86\Debug\grados.Form1.resources
+D:\UPC\SO\Ejercicio 3.3\Grados\grados\grados\obj\x86\Debug\grados.Properties.Resources.resources
+D:\UPC\SO\Ejercicio 3.3\Grados\grados\grados\obj\x86\Debug\grados.csproj.GenerateResource.Cache
+D:\UPC\SO\Ejercicio 3.3\Grados\grados\grados\obj\x86\Debug\grados.exe
+D:\UPC\SO\Ejercicio 3.3\Grados\grados\grados\obj\x86\Debug\grados.pdb
+D:\UPC\SO\Ejercicio 3.3\Grados\grados\grados\obj\x86\Debug\grados.csprojResolveAssemblyReference.cache
